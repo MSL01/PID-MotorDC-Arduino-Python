@@ -41,7 +41,7 @@ El proyecto funciona de la siguiente manera:
 
 <h2>Gráficos</h2>
 
-El proyecto también incluye una función para crear gráficos de la velocidad actual y la velocidad deseada del motor DC. Para crear el gráfico, simplemente haga clic en el botón "Gráfico" en la interfaz gráfica de usuario.
+El proyecto también incluye una función para crear gráficos de la velocidad actual y la velocidad deseada del motor DC. Para crear el gráfico, simplemente haga clic en el botón "Conectar" en la interfaz gráfica de usuario.
 
 ![Captura2](https://github.com/MSL01/PID-MotorDC-Arduino-Python/assets/100708772/5863a705-a6a5-400e-a0f1-40e2daf59306)
 
